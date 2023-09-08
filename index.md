@@ -2,7 +2,7 @@
 <!-- ![headshot](4V9A8216.jpg) -->
 
 
-Thanks for visitng my personal site! Please find my LinkedIn and projects below.
+Thanks for visiting my personal site! Please find my LinkedIn and projects below.
 
 <br>
 
