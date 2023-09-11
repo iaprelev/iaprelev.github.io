@@ -31,13 +31,18 @@ header {
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
-    line-height: 1.2;
+    line-height: 0.5;
     padding: 10vw 2em;
     text-align: center;
-    height: 10px;
+    height: 0.5;
     max-width: 100%; 
 } 
 
 .name {
     color: rgb(199, 112, 61);
+    padding: 30px;
+}
+
+b {
+    color: rgb(218, 135, 87);
 }
